@@ -5,7 +5,12 @@ export default function Announcement() {
     <div className="bg-purple-700 px-4 py-3 text-white">
       <p className="text-center text-sm font-medium">
         Love this website?
-        <a href="#" className="inline-block underline">
+        <a
+          href="https://aivantuquero.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block underline"
+        >
           &nbsp;Meet the creator!
         </a>
       </p>
